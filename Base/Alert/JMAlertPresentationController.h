@@ -10,8 +10,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface JMAlertPresentationController : UIPresentationController
-@property (nonatomic, assign) CGFloat maskViewAlpha;
+//@interface JMAlertPresentationController : UIPresentationController
+//@property (nonatomic, assign) CGFloat maskViewAlpha;
 @end
 
 NS_ASSUME_NONNULL_END
