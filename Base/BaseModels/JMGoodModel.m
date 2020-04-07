@@ -9,11 +9,11 @@
 #import "JMGoodModel.h"
 
 @implementation JMGoodModel
--(instancetype)initWithDictionary:(NSDictionary *)dict{
-    self = [super init];
-    if(self){
-        
-    }
-    return self;
+//-(instancetype)initWithDictionary:(NSDictionary *)dict{
+//    self = [super init];
+//    if(self){
+//        
+//    }
+//    return self;
 }
 @end
